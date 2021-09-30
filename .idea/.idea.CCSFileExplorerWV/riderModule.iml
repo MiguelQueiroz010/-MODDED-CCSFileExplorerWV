@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../Be.Windows.Forms.HexBox" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../CCSFileExplorerWV" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Be.Windows.Forms.HexBox/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Be.Windows.Forms.HexBox/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../CCSFileExplorerWV/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../CCSFileExplorerWV/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
